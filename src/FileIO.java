@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.Map;
 
 public class FileIO {
-    private static String filename = "C:\\Users\\akdtu\\OneDrive\\Masaüstü\\JavaProjects\\LoginPage\\src\\output.txt";
+    private static String filename = "C:\\Users\\akdtu\\OneDrive\\Masaüstü\\JavaProjects\\Login-Page-with-Swing\\src\\output.txt";
 
 
 
